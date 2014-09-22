@@ -1,0 +1,42 @@
+#container{
+	background-color: gray;
+	width: 1100px;
+	height: 750px;
+}
+#header{
+	background-color: blue;
+	height: 105px;
+}
+#header-top{
+	background-color: cyan;
+	height: 70px;
+	border-bottom: solid gray 2px;	
+}
+#header-bottom{
+	background-color: green;
+	height: 35px;
+}
+#body{
+	background-color: black;
+	height: 625px;
+}
+#img{
+	background-color: orange;
+}
+#body-top{
+	background-color: red;
+}
+.box{
+	background-color: purple;
+}
+.yellow-bar{
+	background-color: yellow;
+}
+.number{
+	margin-left: 340px;
+	margin-bottom: 40px;
+	vertical-align: middle;
+	display: inline-block;
+	font-size: 1.5em;
+	font-weight: bolder;
+}
